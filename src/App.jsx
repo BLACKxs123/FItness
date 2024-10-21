@@ -1,6 +1,3 @@
-App.jsx
-
-
 import React, { useState, useEffect } from 'react';
 import { Activity, BarChart3, Users } from 'lucide-react';
 import Header from './components/Header';
